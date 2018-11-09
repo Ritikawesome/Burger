@@ -1,0 +1,54 @@
+
+body {
+    background-color: rgb(240, 105, 112);
+
+}
+#title {
+    color: white;
+    font-size: 100px;
+    margin-bottom: 6px;
+    font-family: 'Jua', sans-serif;
+}
+footer {
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+footer a {
+    color: white;
+    font-weight: bold;
+}
+h4 {
+    font-family: 'Jua', sans-serif;
+}
+.columnHeading {
+    font-family: 'Jua', sans-serif;
+    font-size: 32px;
+}
+
+.uneaten {
+    background-color: peachpuff;
+    margin: 10px;
+    border: 1px solid black;
+}
+.eatBurger {
+    margin: 10px;
+}
+/*  Eaten Burgers */
+.devoured {
+    color: lightgray;
+    background-color: grey;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+#insertBurger {
+    background-color: lightblue;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 8px;
+}
+.insertBurgerBtn {
+    margin-bottom: 10px;
+}
